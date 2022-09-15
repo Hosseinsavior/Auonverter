@@ -1,3 +1,4 @@
 Werkzeug==1.0.0
 Flask==1.1.1
+ffmpeg
 beautifulsoup4==4.9.1
